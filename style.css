@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    bAckground-color: #8D1a2c;
+}
+
+div{
+     border: solid;
+     width: 400px;
+     height: 500PX;border-radius: 20px;
+     margin:auto;
+     text-align: center;
+     padding-top: 30px;
+}
+
+img{
+    border: solid red;
+    border-radius: 20PX;
+    width: 300PX;
+    }
